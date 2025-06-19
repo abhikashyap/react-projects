@@ -1,7 +1,7 @@
 import CoreConcept from "./CoreConcept"
 import { CORE_CONCEPTS } from "../../data"
 import './CoreConcept.css'
-import Section from "../section/section"
+import Section from "../Section/Section"
 
 export default function CoreConcepts(){
     return(
